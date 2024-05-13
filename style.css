@@ -163,6 +163,7 @@ a {
     
 }
 
+
 .downloadBtn:hover {
     color: var(--primary-color) !important;
 }
@@ -178,6 +179,17 @@ a {
     margin-left: 2rem;
     line-height: 2;
 }
+
+.btn--download {
+padding: 16px 32px;
+    font-size: 16px;
+    position: fixed;
+        bottom: 27px;
+}
+
+    
+
+
 
 /* ref */
 .ref_item {
